@@ -12,5 +12,5 @@ Exemplo:
 
 Lista:
 
-| seu-nome | RM: seu-rm | sua-branch |
+| Luiz Fernando| RM: 2978 | feature/Luiz |
 
